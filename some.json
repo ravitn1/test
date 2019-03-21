@@ -1,0 +1,39 @@
+{ 
+    "messages": 
+    [ 
+        { "text": "You only got 0 / 3 correct ðŸ˜’"},
+            { "attachment": 
+                { "type": "image", "payload": 
+                    { 
+                        "url": "http://personabots.com/kekelost2.gif"
+                    }        
+                } 
+            },
+            { "text": "You only got 1 / 3 correct ðŸ˜’"},
+            { "attachment": 
+                { "type": "image", "payload": 
+                    { 
+                        "url": "http://personabots.com/kekelost2.gif"
+                    }        
+                } 
+            },
+            { "text": "You only got 2 / 3 correct ðŸ˜’"},
+            { "attachment": 
+                { "type": "image", "payload": 
+                    { 
+                        "url": "http://personabots.com/kekelost2.gif"
+                    }        
+                } 
+            },
+            { "text": "You only got 3 / 3 correct ðŸ˜’"},
+            { "attachment": 
+                { "type": "image", "payload": 
+                    { 
+                        "url": "http://personabots.com/kekelost2.gif"
+                    }        
+                } 
+            }
+        
+        
+    ] 
+}
